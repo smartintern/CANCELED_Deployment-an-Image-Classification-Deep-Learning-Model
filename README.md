@@ -1,4 +1,5 @@
-# misclassification
+# MISCLASSIFICATION
+
 ## Project Name: Misclassification 
 
 ## What's the problem?
