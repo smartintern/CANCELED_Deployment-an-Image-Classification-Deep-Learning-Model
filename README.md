@@ -65,3 +65,4 @@ Most languages are supported
 ### Secure Authentication
 Supports Kerberos, OAuth2, and standard authentication
 
+![Copy of Solution Architect Design](https://user-images.githubusercontent.com/88366824/128646043-70513cd9-54a1-4ad3-8b85-493b16a52d6e.png)
