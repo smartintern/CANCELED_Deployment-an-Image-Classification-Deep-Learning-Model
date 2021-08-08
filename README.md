@@ -1,4 +1,4 @@
-# MISCLASSIFICATION
+# Deployment an Image Classification Deep Learning Model
 
 ## Project Name: Misclassification 
 
