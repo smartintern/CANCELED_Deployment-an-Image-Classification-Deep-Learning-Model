@@ -64,3 +64,4 @@ Available through third-party tools such as when deployed on CloudKarafka or thr
 Most languages are supported
 ### Secure Authentication
 Supports Kerberos, OAuth2, and standard authentication
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
