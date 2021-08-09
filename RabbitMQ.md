@@ -27,3 +27,11 @@ Supports standard authentication and OAuth2
 ### YUM AND APT PACKAGE MANAGER
 You can learn about Yum and Apt package managers in detail from the address I gave.
 https://www.baeldung.com/linux/yum-and-apt
+
+
+### RabbitMQ Listeners
+Ports or hostname/pair on which to listen for "plain" AMQP 0-9-1 and AMQP 1.0 connections (without TLS). See the Networking guide for more details and examples.
+<br>Default:<br>
+`listeners.tcp.default = 5672`
+  
+  
