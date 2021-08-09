@@ -33,5 +33,6 @@ https://www.baeldung.com/linux/yum-and-apt
 Ports or hostname/pair on which to listen for "plain" AMQP 0-9-1 and AMQP 1.0 connections (without TLS). See the Networking guide for more details and examples.
 <br>Default:<br>
 `listeners.tcp.default = 5672`
-  
+<br>
+https://github.com/rabbitmq/rabbitmq-server/blob/master/deps/rabbit/docs/rabbitmq.conf.example
   
