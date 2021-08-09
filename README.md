@@ -13,7 +13,5 @@ Due to the burrs found in the coils, the camera can classify it as loose wire ev
 ## What solution should be implemented?
 Images that the camera classifies as loose wire are collected in a pool. Most images in the pool actually turn out to be acceptable burrs. We use deep learning to find out if the images in this repository are faulty. We support the camera with deep learning.
 
-
-
-
+### Solution Architect Design
 ![Copy of Solution Architect Design](https://user-images.githubusercontent.com/88366824/128646043-70513cd9-54a1-4ad3-8b85-493b16a52d6e.png)
