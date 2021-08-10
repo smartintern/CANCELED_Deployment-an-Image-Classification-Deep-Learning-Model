@@ -40,6 +40,13 @@ For Apache Nifi: https://nifi.apache.org/
 ### Solution Architect Design
 ![Copy of Solution Architect Design](https://user-images.githubusercontent.com/88366824/128646043-70513cd9-54a1-4ad3-8b85-493b16a52d6e.png)
 
+-----------------------------
+
+You can see how Apache Nifi listens to pictures from the link: https://community.cloudera.com/t5/Community-Articles/Part-2-Nifi-flow-creation-to-parse-new-images-and-run-the/ta-p/244380
+
+You can see how Apache Kafka listens from the link: https://kafka.apache.org/20/documentation.html   -   https://www.confluent.io/blog/kafka-listeners-explained/
+
+You can see how Apache Kafka listens from the link: https://www.rabbitmq.com/tutorials/tutorial-two-python.html
 
 
 
