@@ -24,13 +24,18 @@ Most languages are supported
 ### Secure Authentication
 Supports standard authentication and OAuth2
 
+## Languages supported by RabbitMQ
+Python, Java, Ruby, PHP, C#, JavaScript, Go, Elixir, Objective-C, Swift, Spring AMQP 
+
+For more: https://www.rabbitmq.com/getstarted.html
+
 ## Operating System Kernel Limits
 Most operating systems enforce limits on kernel resources: virtual memory, stack size, open file handles and more. To Linux users these limits can be known as "ulimit limits".
 
 RabbitMQ nodes are most commonly affected by the maximum open file handle limit. Default limit value on most Linux distributions is usually 1024, which is very low for a messaging broker (or generally, any data service).
 
 
-Daha fazlası için: https://www.rabbitmq.com/configure.html#kernel-limits
+For more: https://www.rabbitmq.com/configure.html#kernel-limits
 
 
 ### YUM AND APT PACKAGE MANAGER
