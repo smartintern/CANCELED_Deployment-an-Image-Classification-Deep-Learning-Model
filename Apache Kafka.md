@@ -23,3 +23,8 @@ Available through third-party tools such as when deployed on CloudKarafka or thr
 Most languages are supported
 ### Secure Authentication
 Supports Kerberos, OAuth2, and standard authentication
+
+## Languages supported by RabbitMQ
+Language and Framework Support Kafka APIs support Java and Scala only, but there are many open source (and enterprise solutions) that cover other languages, such as C/C++, Python, . NET, Go, NodeJS, and etc.
+
+For more: https://kafka.apache.org/intro
