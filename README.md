@@ -32,11 +32,11 @@ Images that the camera classifies as loose wire are collected in a pool. Most im
 
 ### You can use the links for more detailed information.
 
-For Rabbit MQ : https://www.rabbitmq.com/
+☞ For Rabbit MQ : https://www.rabbitmq.com/
 
-For Apache Kafka: https://kafka.apache.org/
+☞ For Apache Kafka: https://kafka.apache.org/
 
-For Apache Nifi: https://nifi.apache.org/
+☞ For Apache Nifi: https://nifi.apache.org/
 
 ---------------------------------------------
 
