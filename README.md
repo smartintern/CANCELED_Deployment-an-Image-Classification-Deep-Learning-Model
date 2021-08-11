@@ -45,11 +45,9 @@ Images that the camera classifies as loose wire are collected in a pool. Most im
 
 -----------------------------
 
-You can see how Apache Nifi listens to pictures from the link: https://community.cloudera.com/t5/Community-Articles/Part-2-Nifi-flow-creation-to-parse-new-images-and-run-the/ta-p/244380
+You can see how Rabbit MQ listens from the link: https://www.rabbitmq.com/tutorials/tutorial-two-python.html
 
 You can see how Apache Kafka listens from the link: https://kafka.apache.org/20/documentation.html   -   https://www.confluent.io/blog/kafka-listeners-explained/
 
-You can see how Apache Kafka listens from the link: https://www.rabbitmq.com/tutorials/tutorial-two-python.html
-
-
+You can see how Apache Nifi listens to pictures from the link: https://community.cloudera.com/t5/Community-Articles/Part-2-Nifi-flow-creation-to-parse-new-images-and-run-the/ta-p/244380
 
