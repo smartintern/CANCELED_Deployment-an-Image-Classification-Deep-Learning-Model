@@ -19,7 +19,7 @@
   add the word nightly or test (or both) after the word stable in the commands below. 
   Learn about nightly and test channels.<br>
   `$ echo \
-  "$ deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \
+  "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \
    $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null`
 * Update the apt package index, and install the latest version of Docker Engine and containerd.<br>
   `$ sudo apt-get update`
