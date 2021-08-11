@@ -27,8 +27,11 @@ Images that the camera classifies as loose wire are collected in a pool. Most im
 |Language Support| Python, Java, Ruby, PHP, C#, JavaScript, Go, Elixir, Objective-C, Swift, Spring AMQP|Language and Framework Support Kafka APIs support Java and Scala only, but there are many open source (and enterprise solutions) that cover other languages, such as C/C++, Python, . NET, Go, NodeJS, and etc.|Java|
 |Secure Authentication|Supports standard authentication and OAuth2|Supports Kerberos, OAuth2, and standard authentication|NiFi supports user authentication via client certificates, via username/password, via Apache Knox, or via OpenId Connect.|
 
+(I used this link for the table above: https://www.cloudamqp.com/blog/when-to-use-rabbitmq-or-apache-kafka.html )
+
 
 ### You can use the links for more detailed information.
+
 For Rabbit MQ : https://www.rabbitmq.com/
 
 For Apache Kafka: https://kafka.apache.org/
