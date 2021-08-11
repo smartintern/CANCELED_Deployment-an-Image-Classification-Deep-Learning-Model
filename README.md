@@ -40,6 +40,11 @@ Images that the camera classifies as loose wire are collected in a pool. Most im
 
 ---------------------------------------------
 
+### Why am i using RabbitMQ ? 
+Because I don't know java programming language. I know the Python programming language. I can easily write code in the Python programming language. RabbitMQ supports the python programming language. RabbitMQ has detailed documentation. so I can easily find what I'm looking for.
+
+-----------------------------
+
 ### Solution Architect Design
 ![Copy of Solution Architect Design](https://user-images.githubusercontent.com/88366824/128646043-70513cd9-54a1-4ad3-8b85-493b16a52d6e.png)
 
