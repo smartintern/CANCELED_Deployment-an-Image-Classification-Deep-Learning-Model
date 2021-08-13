@@ -12,7 +12,7 @@ Due to the burrs found in the coils, the camera can classify it as loose wire ev
 Images that the camera classifies as loose wire are collected in a pool. Most images in the pool actually turn out to be acceptable burrs. We use deep learning to find out if the images in this repository are faulty. We support the camera with deep learning.
 
 -------------------------------
-||Rabbit MQ | Apache Kafka | Nifi
+||Rabbit MQ | Apache Kafka | Apache Nifi
 |-------|-------|-------|-------|
 |What it is?|RabbitMQ is a solid, mature, general purpose message broker|Apache Kafka is a message bus optimized for high-ingress data streams and replay|NiFi was built to automate the flow of data between systems|
 |Primary use|Message queue for communication and integration within, and between applications. For long-running tasks, or when you need to run reliable background jobs.|A framework for storing, reading (re-reading), and analyzing streaming data. Optimal for|NiFi allows the setting of one or more prioritization schemes for how data is retrieved from a queue. The default is oldest first, but there are times when data should be pulled newest first, largest first, or some other custom scheme.|
